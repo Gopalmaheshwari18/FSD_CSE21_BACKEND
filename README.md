@@ -1,30 +1,17 @@
 # 🚀 FSD_CSE21_BACKEND
 
-Welcome to the **FSD_CSE21_BACKEND** repository! This repository is dedicated to learning and practicing **Backend Development** as part of my Full Stack Development (FSD) coursework during my B.Tech journey.
+This repository contains my backend development learning journey as part of my B.Tech Full Stack Development coursework. It includes class notes, coding exercises, assignments, practice programs, and backend projects completed throughout the semester.
 
-It serves as a central place to store class notes, coding exercises, assignments, practice programs, mini-projects, and backend concepts learned throughout the semester. As I progress, this repository will continuously grow with new topics, experiments, and implementations.
+## 📚 Topics Covered
 
-## 📚 What You'll Find
-
-- Backend development practice
-- Node.js and Express.js programs
-- Assignments and classroom exercises
-
-
-## 🎯 Purpose
-
-The primary goal of this repository is to document my backend learning journey, strengthen my development skills, and maintain all course-related work in one organized place.
-
-## 🛠️ Tech Stack
-
-- JavaScript (ES6+)
 - Node.js
 - Express.js
+- REST APIs
 - MongoDB
 - Git & GitHub
 
-## 📈 Learning Progress
+## 🎯 Purpose
 
-This repository will be updated regularly as I learn new backend concepts and build practical applications throughout the course.
+To practice backend development, track my progress, and maintain all course-related work in one organized repository.
 
-⭐ Feel free to explore the repository and follow my backend development journey!
+⭐ Learning, building, and improving one commit at a time.
