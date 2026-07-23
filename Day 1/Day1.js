@@ -30,7 +30,7 @@
 //     console.log(add(2,1));
 
 function addNum(){
-
+//function
     console.log(arguments);
 }
  addNum(1,2,3,4,5,6,8);
