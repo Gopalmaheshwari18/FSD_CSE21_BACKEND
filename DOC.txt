@@ -12,4 +12,5 @@ git commands
 
             Day 2
 
+ synchronous and asynchronous programming
         
