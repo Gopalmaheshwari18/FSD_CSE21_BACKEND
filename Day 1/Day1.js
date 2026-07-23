@@ -17,8 +17,8 @@
 // }
 // add(2,1);
 
-// // arrow function 
-// // syntax : ()=>{}
+// arrow function 
+//  syntax : ()=>{}
 
 //     const add=()=> {
 //         console.log("arrow function")
