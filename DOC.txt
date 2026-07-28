@@ -19,3 +19,10 @@ git commands
 
             Day 3
 
+promise resolve reject  then catch error
+
+            Day 4
+
+ create one promise that will disply username and password
+using resove and if data will be rejected it display error
+Aync /await
