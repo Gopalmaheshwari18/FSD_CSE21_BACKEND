@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Gopal Maheshwari",
+    "age": 19,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "email": "gopalbirla181@gmail.com",
+    "phone": "7617516121",
+    "city": "Kasganj",
+    "cgpa": 9.11
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech IT",
+    "year": 2,
+    "email": "priya.verma@example.com",
+    "phone": "9876543211",
+    "city": "Lucknow",
+    "cgpa": 9.1
+  },
+  {
+    "id": 3,
+    "name": "Rohan Singh",
+    "age": 18,
+    "gender": "Male",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "rohan.singh@example.com",
+    "phone": "9876543212",
+    "city": "Kanpur",
+    "cgpa": 8.2
+  },
+  {
+    "id": 4,
+    "name": "Ananya Gupta",
+    "age": 21,
+    "gender": "Female",
+    "course": "B.Tech ECE",
+    "year": 3,
+    "email": "ananya.gupta@example.com",
+    "phone": "9876543213",
+    "city": "Ghaziabad",
+    "cgpa": 9.4
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "age": 20,
+    "gender": "Male",
+    "course": "B.Tech ME",
+    "year": 2,
+    "email": "karan.mehta@example.com",
+    "phone": "9876543214",
+    "city": "Noida",
+    "cgpa": 7.9
+  },
+  {
+    "id": 6,
+    "name": "Sneha Patel",
+    "age": 19,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 1,
+    "email": "sneha.patel@example.com",
+    "phone": "9876543215",
+    "city": "Ahmedabad",
+    "cgpa": 8.8
+  },
+  {
+    "id": 7,
+    "name": "Vikram Yadav",
+    "age": 22,
+    "gender": "Male",
+    "course": "B.Tech Civil",
+    "year": 4,
+    "email": "vikram.yadav@example.com",
+    "phone": "9876543216",
+    "city": "Jaipur",
+    "cgpa": 7.5
+  },
+  {
+    "id": 8,
+    "name": "Neha Joshi",
+    "age": 20,
+    "gender": "Female",
+    "course": "B.Tech CSE",
+    "year": 2,
+    "email": "neha.joshi@example.com",
+    "phone": "9876543217",
+    "city": "Pune",
+    "cgpa": 9.0
+  },
+  {
+    "id": 9,
+    "name": "Aditya Kumar",
+    "age": 21,
+    "gender": "Male",
+    "course": "B.Tech AI & ML",
+    "year": 3,
+    "email": "aditya.kumar@example.com",
+    "phone": "9876543218",
+    "city": "Patna",
+    "cgpa": 8.5
+  },
+  {
+    "id": 10,
+    "name": "Ishita Roy",
+    "age": 18,
+    "gender": "Female",
+    "course": "B.Tech Data Science",
+    "year": 1,
+    "email": "ishita.roy@example.com",
+    "phone": "9876543219",
+    "city": "Kolkata",
+    "cgpa": 9.3
+  }
+]

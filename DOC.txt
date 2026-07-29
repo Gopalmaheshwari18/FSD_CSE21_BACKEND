@@ -26,3 +26,10 @@ promise resolve reject  then catch error
  create one promise that will disply username and password
 using resove and if data will be rejected it display error
 Aync /await
+
+            Day 5 
+
+// Understand the concept of fetch in console
+// data from json
+// EVENTSMODULE :
+

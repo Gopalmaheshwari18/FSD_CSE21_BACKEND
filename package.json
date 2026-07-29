@@ -1,0 +1,20 @@
+{
+  "name": "fsd_cse21_backend",
+  "version": "1.0.0",
+  "description": "This repository contains my backend development learning journey as part of my B.Tech Full Stack Development coursework. It includes class notes, coding exercises, assignments, practice programs, and backend projects completed throughout the semester.",
+  "homepage": "https://github.com/Gopalmaheshwari18/FSD_CSE21_BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/Gopalmaheshwari18/FSD_CSE21_BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopalmaheshwari18/FSD_CSE21_BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
