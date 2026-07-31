@@ -33,3 +33,9 @@ Aync /await
 // data from json
 // EVENTSMODULE :
 
+
+            Day 6
+
+//EventEmitter is classs 
+//emit("event param"): trigger/create/fire and on ("event emit parameter",callback function ):listener that register 
+// Q1 : create a custom eventemitter that triggers "greet " or "exit"
