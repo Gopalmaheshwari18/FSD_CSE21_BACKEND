@@ -1,6 +1,6 @@
 //promises : object 
 //  A Promise is an object that represents the eventual completion (success) or failure of an asynchronous operation.
-//promise way 1 
+//promise way 1  
 const promiseOne = new Promise((resolve,reject) => {
     console.log("promise done ");
     resolve("operation successful");
@@ -14,6 +14,7 @@ const promiseOne = new Promise((resolve,reject) => {
 
     
 })  
+
 promiseOne.then((result)=>{
     console.log(result);
 }).catch((error)=>{
