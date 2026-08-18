@@ -24,12 +24,12 @@
 //     callback();
 // }
 
-// let a =10;
-// let b = 20;
+let a =10;
+let b = 20;
 
-// add(a,b,sayHI);
-// add(a,b,hello);
-// add(hello,sayHI);
+add(a,b,sayHI);
+add(a,b,hello);
+add(hello,sayHI);
 
 // function sayHI(){
 //     console.log("This is callback funtion");
