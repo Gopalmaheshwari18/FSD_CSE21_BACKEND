@@ -1,4 +1,4 @@
-// Understand the concept of fetch in console
+// Understand the concept of fetch in console log
 async function test() {
     console.log("This is Asynchronous Function and we want to use fetch function");
 
