@@ -52,3 +52,9 @@ Aync /await
             
 // FS Module 
 // make promises
+
+
+            REST API 
+
+// GET: fetch all users data  
+// POST: create a new user
