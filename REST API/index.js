@@ -37,4 +37,4 @@ app.listen(8000,()=>{
 app.delete("/users/:id",(req,res)=>{
     users=users.filter(u=>u.id!=req.params.id);
     res.send("user deleted successfully");
-});
+}); 

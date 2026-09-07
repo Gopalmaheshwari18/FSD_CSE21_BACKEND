@@ -59,3 +59,4 @@ Aync /await
 // GET: fetch all users data  
 // POST: create a new user
 // PUT : update the existing records
+// DELETE : delete the records
