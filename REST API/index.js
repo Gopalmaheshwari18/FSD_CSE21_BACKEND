@@ -52,3 +52,4 @@ app.delete('/users/:id', (req, res) => {
 app.listen(8000, () => {
     console.log("Server is running on http://localhost:8000");
 });
+// create a simple express.js server that serves an HTML file using fs module. has route like
