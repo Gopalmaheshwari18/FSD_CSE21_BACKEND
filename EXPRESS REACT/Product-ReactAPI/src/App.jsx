@@ -30,7 +30,13 @@ const App = () =>{
   return (
 
     <div>
-      <h1>Welcome to React API</h1>
+      <h1>Product Management App </h1>
+      <form onSubmit={addProduct}>
+        <input type='text' placeholder='Name' value={name} onChange={(e)=>setName(e.target.value)}/>
+        <input type='text' placeholder='Price' value={price} onChange={(e)=>setPrice(e.target.value)}/>
+        <input type='text' placeholder='Category' value={category} onChange={(e)=>setCategory(e.target.value)}/>
+        <button type='submit'>Add Product</button>
+      </form> 
       <table border='1'cellpadding='10'cellspacing='0'>
         <thead>
           <tr>
@@ -41,8 +47,16 @@ const App = () =>{
           </tr>
         </thead>
         <tbody>
-          </tbody>
-                  </table>
+          {products.map((product) => (
+            <tr key={product.id}>
+              <td>{product.id}</td>
+              <td>{product.name}</td>
+              <td>{product.price}</td>
+              <td>{product.category}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   )
 }
