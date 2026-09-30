@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REQ-4255",
+    "studentName": "Gopal Maheshwari",
+    "email": "gopalbirla181@gmail.com",
+    "category": "IT Support",
+    "priority": "Medium",
+    "description": "Wifi issue",
+    "createdAt": "2026-09-29T07:10:54.258Z"
+  },
+  {
+    "id": "REQ-102",
+    "studentName": "Priya Verma",
+    "email": "priya.verma@abes.ac.in",
+    "category": "Academic",
+    "priority": "Medium",
+    "description": "Requesting reference book list and lecture notes access for Full Stack Development Unit 4.",
+    "createdAt": "2026-09-28T14:15:00.000Z"
+  },
+  {
+    "id": "REQ-103",
+    "studentName": "Rohan Gupta",
+    "email": "rohan.gupta@abes.ac.in",
+    "category": "Infrastructure",
+    "priority": "Low",
+    "description": "Water dispenser on Bhabha Block ground floor cooling unit requires routine maintenance.",
+    "createdAt": "2026-09-29T09:00:00.000Z"
+  },
+  {
+    "id": "REQ-104",
+    "studentName": "Sneha Patel",
+    "email": "sneha.patel@abes.ac.in",
+    "category": "Library",
+    "priority": "High",
+    "description": "Digital library portal session error when accessing IEEE Xplore digital library from campus network.",
+    "createdAt": "2026-09-29T10:05:00.000Z"
+  }
+]
